@@ -55,6 +55,7 @@ public class Main {
 		//meta built;
 		ID3 root = new ID3(initdata,labels,initmeta);
 		root.setRoot();
+		
 	}
 
 }
